@@ -1,0 +1,14 @@
+p{
+    color: red;
+    width: 300;
+}
+
+/*Esto es un comentario*/
+h1{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 30px;
+    color: green;
+    font-weight: 100;
+
+}
